@@ -1,2 +1,2 @@
 - [Electronics Fundamentals](https://youtu.be/WlUOr4z3Lbs)
-- 
+- [001. Circuits Fundamentals: Definitions, graph properties, current & voltage, power & energy](https://youtu.be/i9WixHfiZPU)
