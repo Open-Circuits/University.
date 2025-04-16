@@ -1,0 +1,3 @@
+- [Basic Electronics Part 1](https://youtu.be/nb4ovfwqup8)
+- [Basic Electronics Part 2](https://youtu.be/FEK6lH_rtG8)
+- [Basic Electronics Part 3](https://youtu.be/_4zSRze0_bk)
